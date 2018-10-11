@@ -5,8 +5,10 @@ This repository includes the tutorials I completed while taking BerkeleyX CS105x
 #### (1a) Spark tutorial
 The following transformations will be covered:
 * select(), filter(), distinct(), dropDuplicates(), orderBy(), groupBy()  
+
 The following actions will be covered:
 * first(), take(), count(), collect(), show()
+
 Also covered:
 * cache(), unpersist()
 
