@@ -1,5 +1,8 @@
 ## Overview
-This repository includes the tutorials I completed while taking BerkeleyX CS105x - Introduction to Apache Spark at edX. Personal notes and highlights are included.
+This repository includes the tutorials I completed while taking BerkeleyX CS105x
+ - Introduction to Apache Spark at edX. Personal notes and highlights are
+ included. Note that since results cannot be displayed in the correct format at
+ github interface, the results have been removed for readability.
 
 ## Table of contents
 #### (1a) Spark tutorial
