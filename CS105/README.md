@@ -1,7 +1,7 @@
 ## Overview
 This repository includes the tutorials I completed while taking BerkeleyX CS105x - Introduction to Apache Spark at edX. Personal notes and highlights are included.
 
-## Table of content
+## Table of contents
 #### (1a) Spark tutorial
 The following transformations will be covered:
 * select(), filter(), distinct(), dropDuplicates(), orderBy(), groupBy()  
