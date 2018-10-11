@@ -5,7 +5,7 @@ This repository includes the tutorials I completed while taking BerkeleyX CS105x
  github interface, the results have been removed for readability.
 
 ## Table of contents
-#### (1a) Spark tutorial
+#### Lab 1a: Spark tutorial
 The following transformations are covered:
 * select(), filter(), distinct(), dropDuplicates(), orderBy(), groupBy()  
 
@@ -15,7 +15,7 @@ The following actions are covered:
 Also covered:
 * cache(), unpersist()
 
-#### (1b) Word count lab: building a word count application  
+#### Lab 1b: Building a word count application  
 Transformations employed:
 * select(), where(), orderBy(), groupby()
 
@@ -27,6 +27,8 @@ Also employed:
 
 The code could also be scaled to larger applications, such as finding the most
  common words in Wikipedia.
+
+#### Lab 2: Web Server Log Analysis
 
 ## Requirements
 [Databricks Community Edition](https://community.cloud.databricks.com/) is required to run these Apache Spark notebooks.
