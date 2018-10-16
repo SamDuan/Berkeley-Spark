@@ -1,6 +1,6 @@
 ## About
 This repository contains lab work files,specifically IPython notebooks, for
- BerkeleyX  CS105x: Introduction to Apache Spark at edX. Personal notes and
+ BerkeleyX **CS105x: Introduction to Apache Spark** at edX. Personal notes and
  highlights are included. Note that since results cannot be displayed in the
  correct format at github interface, the results in notebook have been removed
  for readability.
